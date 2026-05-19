@@ -30,7 +30,6 @@ This lab demonstrates foundational blue-team and infrastructure security skills,
 
 ![Lab Demo](assets/demo-screenshot.png)
 
-> Note: Screenshots in this repository should be sanitized before publishing. Do not include student email addresses, platform watermarks, credentials, private IP details, or instructor-provided lab content.
 
 ---
 
